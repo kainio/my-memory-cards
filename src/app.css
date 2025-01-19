@@ -8,8 +8,8 @@
 
   header {
     position: relative;
-    width: 100%;
     text-align: center;
+    margin: 0 40px;
     margin-bottom: 8px;
 
 
@@ -37,8 +37,8 @@
     align-items: stretch;
     gap: 1rem;
     margin: 0 auto;
-    width: calc(140px * 3);
-    height: calc(190px * 3);
+    width: calc(110px * 3);
+    height: calc(149.285px * 3);
     perspective: 100%;
     max-width: 720px;
   }

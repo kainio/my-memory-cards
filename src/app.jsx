@@ -190,10 +190,10 @@ export default function App() {
   return (
     <div className="App">
     <header>
-      <h1>L9a jooj titchabho mn kolla Nou3</h1>
-      <h3>
+      <h2>L9a jooj titchabho mn kolla Nou3</h2>
+      <p>
         7di rassk lay ghdar bik Joke rah til3ab solo ma 3ando khoh
-      </h3>
+      </p>
     </header>
     <div className="container">
       {cards.map((card, index) => {
