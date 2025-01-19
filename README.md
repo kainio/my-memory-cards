@@ -1,8 +1,13 @@
-# React + Vite
+# My Memory Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## [ar-ma] L9a jooj titchabho mn kolla Nou3
+[ar-ma] 7di rassk lay ghdar bik Joke rah til3ab solo ma 3ando khoh
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## [en-us] Match the corresponding cards
+[en-us] Don't get trapped by the Joker
+
+
+### Credits:
+Cards assets from : Boardgame pack v2 by Kenney Vleugels (www.kenney.nl)
