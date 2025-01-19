@@ -17,5 +17,5 @@ Cards assets from : Boardgame pack v2 by Kenney Vleugels (www.kenney.nl)
 
 
 Copyright Soufiane El KASSIB
-MIT: licence
+MIT: license
 
