@@ -1,0 +1,45 @@
+.bold {
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.App {
+
+
+  header {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 8px;
+
+
+  }
+
+  footer {
+    position: relative;
+    margin: 0 auto;
+    padding: 10px 4px;
+    margin-top: 10px;
+
+
+    .restart {
+      display: flex;
+      justify-content: center
+    }
+  }
+
+  .container {
+    padding: 12px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    justify-items: center;
+    align-items: stretch;
+    gap: 1rem;
+    margin: 0 auto;
+    width: calc(140px * 3);
+    height: calc(190px * 3);
+    perspective: 100%;
+    max-width: 720px;
+  }
+}
