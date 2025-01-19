@@ -9,5 +9,13 @@
 [en-us] Don't get trapped by the Joker
 
 
+
 ### Credits:
 Cards assets from : Boardgame pack v2 by Kenney Vleugels (www.kenney.nl)
+
+
+
+
+Copyright Soufiane El KASSIB
+MIT: licence
+
